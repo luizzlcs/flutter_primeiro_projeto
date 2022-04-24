@@ -1,6 +1,6 @@
 <h1 align="center"> PRIMEIRO PROJETO</h1>
 
-<p align="center"> MÓDULO MÃO NA MASSA.</p>
+<p align="center"> MÓDULO MÃO NA MASSA</p>
 
 <p align="center">
 <img width="" height="270" src="assets/images/logo.gif"/>

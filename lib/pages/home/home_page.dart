@@ -197,8 +197,8 @@ class HomePage extends StatelessWidget {
                   padding: EdgeInsets.only(top: 15),
                   child: Text(
                     '''       "Deus ajuda quem 
-          senta e estuda!"     
-                    ''',
+            senta e estuda!"     
+                      ''',
                     style: TextStyle(fontSize: 25, color: Colors.white),
                   ),
                 ),
@@ -208,21 +208,21 @@ class HomePage extends StatelessWidget {
         )
 
         /* Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            const Text(
-              '💾',
-              style: TextStyle(fontSize: 120),
-            ),
-            Container(
-              color: Theme.of(context).primaryColor,
-              width: 290,
-              height: 4,
-            ),
-          ],
-        ),
-      ), */
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              const Text(
+                '💾',
+                style: TextStyle(fontSize: 120),
+              ),
+              Container(
+                color: Theme.of(context).primaryColor,
+                width: 290,
+                height: 4,
+              ),
+            ],
+          ),
+        ), */
         );
   }
 }
